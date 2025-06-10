@@ -11,8 +11,6 @@ public class Cuenta
     public int Contraseña { get; set; }
     public int Intentos { get; set; }
     public decimal RetiroDelDia { get; set; }
-
-    public Usuario? Usuario { get; set; }
 }
 
 
